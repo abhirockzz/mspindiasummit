@@ -12,6 +12,11 @@ Clone the Git repository
 
 That's it, you're all set!
 
+## Learning Resources
+
+Explore overviews, tutorials, samples, and more at 
+**aka.ms/azure-containers**
+
 ## Azure services covered
 
 - [Azure Container Instances](https://docs.microsoft.com/azure/container-instances/?WT.mc_id=mspindiasummit-github-abhishgu)
