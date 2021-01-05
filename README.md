@@ -2,8 +2,8 @@
 
 ## Pre-requisites
 
-- Microsoft Azure account - [get a free one here!](https://azure.microsoft.com/free/?WT.mc_id=mspindiasummit-github-abhishgu)
-- Install Azure CLI - [follow these instructions](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=mspindiasummit-github-abhishgu)
+- Microsoft Azure account - [get a free one here!](https://azure.microsoft.com/free/?WT.mc_id=data-0000-abhishgu)
+- Install Azure CLI - [follow these instructions](https://docs.microsoft.com/cli/azure/install-azure-cli?view=azure-cli-latest&WT.mc_id=data-0000-abhishgu)
 - [Install `kubectl`](https://kubernetes.io/docs/tasks/tools/install-kubectl/)
 - [Install `Docker`](https://docs.docker.com/install/)
 
@@ -28,7 +28,7 @@ Explore overviews, tutorials, samples, and more at
 
 ## Azure services covered
 
-- [Azure Container Instances](https://docs.microsoft.com/azure/container-instances/?WT.mc_id=mspindiasummit-github-abhishgu)
-- [Azure Container Registry](https://docs.microsoft.com/azure/container-registry/?WT.mc_id=mspindiasummit-github-abhishgu)
-- [Azure App Service](https://docs.microsoft.com/azure/app-service/?WT.mc_id=mspindiasummit-github-abhishgu)
-- [Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/?WT.mc_id=mspindiasummit-github-abhishgu)
+- [Azure Container Instances](https://docs.microsoft.com/azure/container-instances/?WT.mc_id=data-0000-abhishgu)
+- [Azure Container Registry](https://docs.microsoft.com/azure/container-registry/?WT.mc_id=data-0000-abhishgu)
+- [Azure App Service](https://docs.microsoft.com/azure/app-service/?WT.mc_id=data-0000-abhishgu)
+- [Azure Kubernetes Service](https://docs.microsoft.com/azure/aks/?WT.mc_id=data-0000-abhishgu)
